@@ -5,6 +5,7 @@ export default function App() {
     <div className='App'>
       <h1>C1</h1>
       <h1>C2</h1>
+      <h1>C3</h1>
     </div>
   );
 }
