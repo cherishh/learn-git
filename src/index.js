@@ -9,6 +9,7 @@ const root = createRoot(rootElement);
 const Test = (
   <div>
     <div>f1</div>
+    <div>f2</div>
   </div>
 );
 
