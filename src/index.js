@@ -13,6 +13,8 @@ const Test = (
   </div>
 );
 
+console.log(1, 'on main');
+
 root.render(
   <StrictMode>
     <App />
