@@ -6,6 +6,7 @@ import App from './App';
 const rootElement = document.getElementById('root');
 const root = createRoot(rootElement);
 console.log(3, 'on main');
+console.log(1, 'on merge');
 
 const Test = (
   <div>
