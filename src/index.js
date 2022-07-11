@@ -5,6 +5,8 @@ import App from './App';
 
 const rootElement = document.getElementById('root');
 const root = createRoot(rootElement);
+console.log(1);
+console.log(2);
 
 const Test = (
   <div>
