@@ -14,6 +14,7 @@ const Test = (
 );
 
 console.log(1, 'on main');
+console.log(2, 'on main');
 
 root.render(
   <StrictMode>
